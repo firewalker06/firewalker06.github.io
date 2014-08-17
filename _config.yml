@@ -1,0 +1,12 @@
+# Site settings
+title: Preprocessed Logs
+email:
+description: >
+  I'm a gamer, designer, and developer. Right now, mostly developer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: did1k
+github_username:  firewalker06
+
+# Build settings
+markdown: kramdown
